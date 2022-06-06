@@ -1,6 +1,3 @@
-# Daniel Zhang GJS7EW 
-# Thomas Dickinson QGH7VR
-
 # Description:
 
 # The game that we have chosen to emulate is “Crossy Road”. Essentially a character can move side to side and up to down with arrow keys to cross roads of moving traffic. However, instead of doing a game that goes on indefinitely, we will make a set of levels. If the character gets hit, he will be able to restart to the beginning of the level and they will have a checkpoint for each level completed.
